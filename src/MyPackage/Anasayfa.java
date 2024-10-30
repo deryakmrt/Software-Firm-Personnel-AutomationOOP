@@ -14,7 +14,7 @@ public class Anasayfa {
         // Yazılımcı dizisi
         Yazilimci[] yazilimcilar = new Yazilimci[yazilimciSayisi];
 
-        // bilgi allllllll
+        // bilgi al
         for (int i = 0; i < yazilimciSayisi; i++) {
             System.out.print("Ad: ");
             String ad = input.next();
